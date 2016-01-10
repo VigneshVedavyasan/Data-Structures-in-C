@@ -1,4 +1,4 @@
-These programs are exercises in Data Structures in depth in C by Srivatsava and Deepali Srivatsava. This is an underrated book. It has great solutions for basic data structure problems. 
+These programs are exercises in Data Structures in depth in C by Srivastava and Deepali Srivastava. This is an underrated book. It has great solutions for basic data structure problems. 
 
 Many works found here were copied on to works like Narasimha Karumanchi's Data Structure book.
 
