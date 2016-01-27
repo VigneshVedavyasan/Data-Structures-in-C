@@ -2,6 +2,4 @@ These programs are exercises in Data Structures in depth in C by Srivastava and 
 
 Many works found on this book were copied on to works like Narasimha Karumanchi's Data Structure book.
 
-I found the idea/difficulty transition to be smoother than any other books i have come across. Good book for someone who wants to get a clear understanding of data structures are implemented in programs.
-
-All the best!
+I found the idea/difficulty transition to be smoother than any other books i have come across. Good book for someone who wants to get a clear understanding of data structures.
