@@ -4,4 +4,4 @@ Many works found on this book were copied on to works like Narasimha Karumanchi'
 
 I found the idea/difficulty transition to be smoother than any other books i have come across. Good book for someone who wants to get a clear understanding of data structures.
 
-Just uploading these codes for references in future.
+Just uploading these codes I wrote after understanding the implementations from the book. This will serve as a future reference.
