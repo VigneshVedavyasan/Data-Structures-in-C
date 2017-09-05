@@ -1,3 +1,13 @@
+
+/* Version 0.1
+ * In the current version Insert, search, delete and print operations
+ * can be performed, However linked list doesn't handle many edge cases where
+ * a duplicate data is supplied. The insertion is allowed to happen incase duplicate
+ * data is inserted and duplicate data deletion results in the deletion of 
+ * first data present in the linked list. Future versions may incorporate changes 
+ * that address these short comings.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
