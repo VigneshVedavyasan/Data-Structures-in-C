@@ -30,7 +30,7 @@ void findMaximumPalindromicString(char* text) {
     if(diff > 0)
       l[i] = min( l[iMirror], diff);
     while(((i+l[i]) < n) && ((i-l[i]) > 0) &&
-        (((i+l[i]+1)%2 == 0) || (text[i+l[i]+1] == text[i-l[i]-1]))) {
+        (((i+l[i]+1)%2 == 0) || (text[(i+l[i]+1)/2] == text[(i-l[i]-1)/2]))) {
       l[i]++;
     }
     if(maxLPSLength < l[i]) {
@@ -46,7 +46,7 @@ void findMaximumPalindromicString(char* text) {
   start = (maxLPSCenterPosition - maxLPSLength)/2;
   end = maxLPSLength + start -1;
   printf("%d,%d\n",start,end);
-  for(i = start ; i < end ; i++ ) {
+  for(i = start ; i <= end ; i++ ) {
     printf("%c",text[i]);
   }
   printf("\n");
