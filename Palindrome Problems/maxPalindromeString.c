@@ -24,7 +24,7 @@ void findMaximumPalindromicString(char* text) {
   int i=0;//currentRightPosition 
   int iMirror;//currentLeftPosition 
   int diff=-1;
-  int R = 2, //centerRightPosition
+  int R = 2; //centerRightPosition
   int C = 1;//centerPosition
   int start = -1, end = -1;
   int maxLPSCenterPosition = 0;
